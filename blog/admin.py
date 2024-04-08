@@ -10,6 +10,9 @@ admin.site.register(Post)
 # Password: BILObend123
 
 
+# second user : bilal / bendaoud123
+
+
 #   to delete a superuser/admin
 # python manage.py shell
 # >>> from django.contrib.auth.models import User
